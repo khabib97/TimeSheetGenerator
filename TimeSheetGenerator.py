@@ -1,4 +1,3 @@
-#!/usr/bin/python
 import xlsxwriter
 import calendar
 import datetime
