@@ -1,5 +1,5 @@
 # TimeSheetGenerator
-Automate monthly salary and time sheet
+Generate salary and time sheet
 
 ### Prerequisite 
 
